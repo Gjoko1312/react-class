@@ -1,0 +1,12 @@
+body { font-family: 'Times New Roman', Times, serif;
+background-color: bisque;
+font-size: large;
+
+}
+
+.fudbal {
+    height: 300px;
+    width: 400px;
+    border: 5px;
+    border-radius: 2px;
+}
